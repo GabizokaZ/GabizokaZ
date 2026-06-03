@@ -1,46 +1,50 @@
 # ✨✨Gabriela Nascimento✨✨
 
-## 🚀 QA em Formação | Transição para Tecnologia
+## 🚀 QA em Formação | Qualidade de Software • Testes • Automação
 
 📍 São Paulo - SP
 
-Olá! Sou a Gabriela e estou em transição de carreira para a área de Tecnologia.
+Olá! Sou Gabriela Nascimento.
 
-Atualmente estudo Qualidade de Software (QA), Automação de Testes com Playwright, Python, Banco de Dados, Git/GitHub e Inglês para TI.
+Tenho experiência em Suporte Técnico, atuando na análise e investigação de incidentes, reprodução de erros, validação de fluxos de negócio e atendimento a usuários.
 
-Meu objetivo é construir uma carreira sólida em tecnologia, iniciando pela área de QA e evoluindo continuamente através de projetos práticos, estudos e desenvolvimento profissional.
+Durante minha atuação, desenvolvi habilidades de pensamento analítico, resolução de problemas e atenção aos detalhes — competências que me aproximaram naturalmente da área de Qualidade de Software (QA).
+
+Atualmente estou me especializando em Testes de Software, Automação com Playwright, Python, SQL , Git/GitHub e Inglês para TI, enquanto construo projetos práticos e compartilho minha evolução profissional neste portfólio. desenvolvendo projetos práticos e registrando minha jornada de aprendizado neste portfólio.
 
 ---
 
 ## 🌱 Minha Jornada
 
-2025 → Início dos estudos em Tecnologia
+2020 → Início da atuação profissional em Tecnologia (Suporte Técnico)
 
-2026 → Foco em QA e Automação de Testes
+2022 → Atuação com sistemas ERP, análise de incidentes e suporte especializado
 
-🎯 Meta atual: conquistar minha primeira oportunidade como QA
+2025 → Início da especialização em Qualidade de Software (QA), Automação e Desenvolvimento
+
+🎯 Meta atual: conquistar minha primeira oportunidade em QA e evoluir para Automação de Testes
 
 ---
 
 ## 📚 Atualmente estudando
 
-* ✅ Fundamentos de QA
-* ✅ Node.js
-* ✅ Git e GitHub
-* ✅ JavaScript Básico
-* 🔄 Playwright
+* 🔄 Qualidade de Software (QA)
+* 🔄 Automação de Testes com Playwright
 * 🔄 Python
-* 🔄 SQL
+* 🔄 SQL e Banco de Dados
+* 🔄 Git e GitHub
+* 🔄 JavaScript
 * 🔄 Inglês para TI
 
 ---
 
 ## 🎯 Objetivos
 
-* Conquistar minha primeira oportunidade como QA
-* Desenvolver projetos práticos de automação de testes
-* Construir um portfólio sólido na área de Qualidade de Software
-* Evoluir para QA de Automação
+* Conquistar minha primeira oportunidade em Qualidade de Software (QA)
+* Desenvolver projetos práticos de testes manuais e automação
+* Construir um portfólio sólido com foco em QA
+* Aprimorar conhecimentos em APIs, Banco de Dados e Automação
+* Evoluir para QA Automation
 * Compartilhar minha evolução profissional através do GitHub
 
 ---
@@ -63,52 +67,54 @@ Meu objetivo é construir uma carreira sólida em tecnologia, iniciando pela ár
 
 ## 🚀 Roadmap QA
 
-### Concluído
+### ✅ Conhecimentos Desenvolvidos
 
-✅ Módulo 0 - Base para Testers Manuais
-
-* Node.js
-* npm
-* VS Code
-* GitHub
+* Fundamentos de Testes de Software
+* Git e GitHub
 * JavaScript Básico
-* Playwright (instalação e configuração)
+* Node.js
+* Configuração de ambiente para automação
+* Playwright (fundamentos)
 
-### Em andamento
+### 🔄 Em Desenvolvimento
 
-🔄 QA e Automação com Playwright
+* Automação de Testes com Playwright
+* Python
+* SQL
+* Inglês para TI
 
-### Próximos passos
+### 🎯 Próximos Passos
 
-⬜ Testes de API
-
-⬜ Automação E2E
-
-⬜ Projetos práticos de QA
-
-⬜ Portfólio profissional
-
-⬜ Primeira vaga em QA
+* Testes de API com Postman
+* Automação E2E
+* Casos de Teste e Bug Reports
+* Integração com CI/CD
+* Projetos práticos para portfólio
 
 ---
 
 ## 📂 Projetos
 
-Em breve meus projetos de estudo estarão disponíveis aqui:
+### 🚀 Testes de API com Postman
+Coleção de testes para validação de endpoints REST, incluindo cenários positivos e negativos.
 
-* QA com Playwright
-* Python para Automação
-* Banco de Dados e SQL
-* Projetos de Portfólio
+### 🚀 Workflow de Retenção de Clientes
+Projeto de melhoria de processos e automação de fluxos para acompanhamento de clientes e redução de churn.
+
+### 🚀 Automação com Playwright
+Projetos de automação web desenvolvidos durante minha jornada de aprendizado.
+
+### 🚀 SQL e Banco de Dados
+Consultas e exercícios voltados para análise e manipulação de dados.
 
 ---
 
 ## 📖 Aprendizado Contínuo
 
-Acredito que a tecnologia é uma jornada constante de aprendizado.
+Acredito que a qualidade de software vai além da execução de testes. Ela envolve análise, investigação, atenção aos detalhes e foco na experiência do usuário.
 
-Este perfil registra minha evolução profissional, meus projetos e as habilidades que estou desenvolvendo para construir uma carreira sólida na área de Qualidade de Software.
+Este repositório documenta minha evolução profissional, projetos, estudos e experiências durante minha transição para a área de QA.
 
 ---
 
-⭐ Cada commit representa um passo da minha jornada.
+⭐ Cada commit representa conhecimento adquirido, desafios superados e mais um passo rumo à minha carreira em QA.
