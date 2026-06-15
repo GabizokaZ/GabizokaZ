@@ -1,18 +1,45 @@
 # ✨✨Gabriela Nascimento✨✨
 
-## 🚀 QA em Formação | Qualidade de Software • Testes • Automação
+## 🚀 Analista de Suporte em Transição para QA | Testes de Software • Automação • Qualidade
 
 📍 São Paulo - SP
+
+💼 LinkedIn:www.linkedin.com/in/gabrielanascimento-b26ab1190
+🐙 GitHub: github.com/GabizokaZ
 
 Olá! Sou Gabriela Nascimento.
 
 Tenho experiência em Suporte Técnico, atuando na análise e investigação de incidentes, reprodução de erros, validação de fluxos de negócio e atendimento a usuários.
 
-Durante minha atuação, desenvolvi habilidades de pensamento analítico, resolução de problemas e atenção aos detalhes — competências que me aproximaram naturalmente da área de Qualidade de Software (QA).
+Durante minha atuação, desenvolvi habilidades de pensamento analítico, resolução de problemas e atenção aos detalhes, competências que me aproximaram naturalmente da área de Qualidade de Software (QA).
 
-Atualmente estou me especializando em Testes de Software, Automação com Playwright, Python, SQL , Git/GitHub e Inglês para TI, enquanto construo projetos práticos e compartilho minha evolução profissional neste portfólio. desenvolvendo projetos práticos e registrando minha jornada de aprendizado neste portfólio.
+Atualmente estou me especializando em Testes de Software, Automação com Playwright, Python, SQL, Git/GitHub e Inglês para TI, enquanto desenvolvo projetos práticos e compartilho minha evolução profissional através deste portfólio.
 
 ---
+
+## 💼 Experiência Atual
+
+Atualmente atuo como Analista de Suporte, realizando:
+
+- Investigação e análise de incidentes
+- Reprodução de erros reportados por clientes
+- Validação de fluxos de negócio
+- Atendimento e suporte a usuários
+- Registro e acompanhamento de chamados
+- Comunicação entre áreas técnicas e clientes
+
+Ferramentas utilizadas no dia a dia:
+
+- Metabase
+- Grafana
+- Appsmith
+- HubSpot
+- Trello
+- Postman
+
+Essa experiência fortaleceu habilidades fundamentais para QA, como análise crítica, investigação de problemas, documentação e atenção aos detalhes.
+
+--- 
 
 ## 🌱 Minha Jornada
 
@@ -73,11 +100,16 @@ Atualmente estou me especializando em Testes de Software, Automação com Playwr
 * Git e GitHub
 * JavaScript Básico
 * Node.js
-* Configuração de ambiente para automação
-* Playwright (fundamentos)
+* Playwright (Fundamentos)
+* Execução de testes em múltiplos navegadores
+* HTML Reports
+* Assertions
+* Localizadores modernos (getByRole, getByText, getByPlaceholder)
 
 ### 🔄 Em Desenvolvimento
 
+* CSS Selectors
+* XPath
 * Automação de Testes com Playwright
 * Python
 * SQL
@@ -95,17 +127,36 @@ Atualmente estou me especializando em Testes de Software, Automação com Playwr
 
 ## 📂 Projetos
 
-### 🚀 Testes de API com Postman
-Coleção de testes para validação de endpoints REST, incluindo cenários positivos e negativos.
+### 🚀 QA Playwright Journey
 
-### 🚀 Workflow de Retenção de Clientes
-Projeto de melhoria de processos e automação de fluxos para acompanhamento de clientes e redução de churn.
+🔗 Repositório com exercícios e projetos de automação utilizando Playwright.
+https://github.com/GabizokaZ/qa-playwright-journey
 
-### 🚀 Automação com Playwright
-Projetos de automação web desenvolvidos durante minha jornada de aprendizado.
+Tecnologias:
+- Playwright
+- JavaScript
+- Node.js
+- Git
+- GitHub
 
-### 🚀 SQL e Banco de Dados
-Consultas e exercícios voltados para análise e manipulação de dados.
+Principais aprendizados:
+- Estruturação de testes
+- Assertions
+- HTML Reports
+- Localizadores modernos
+- Execução cross-browser
+
+### 🚧 API Testing Journey 
+
+Coleções Postman, testes de API REST, validação de status codes, payloads e automação de testes.
+
+Tecnologias:
+- Postman
+- REST API
+- JSON
+
+Status:
+(Em desenvolvimento)
 
 ---
 
