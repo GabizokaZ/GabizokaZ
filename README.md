@@ -49,7 +49,7 @@ Essa experiência fortaleceu habilidades fundamentais para QA, como análise cr�
 
 2025 → Início da especialização em Qualidade de Software (QA), Automação e Desenvolvimento
 
-🎯 Meta atual: conquistar minha primeira oportunidade em QA e evoluir para Automação de Testes
+🎯 Meta atual: desenvolver projetos práticos e evoluir continuamente em QA e Automação de Testes
 
 ---
 
@@ -67,7 +67,6 @@ Essa experiência fortaleceu habilidades fundamentais para QA, como análise cr�
 
 ## 🎯 Objetivos
 
-* Conquistar minha primeira oportunidade em Qualidade de Software (QA)
 * Desenvolver projetos práticos de testes manuais e automação
 * Construir um portfólio sólido com foco em QA
 * Aprimorar conhecimentos em APIs, Banco de Dados e Automação
